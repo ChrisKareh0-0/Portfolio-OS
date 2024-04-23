@@ -24,18 +24,10 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
             <ResumeDownload />
             <br />
             <div className="text-block">
-                <h2>henryheffernan.com</h2>
+                <h2></h2>
                 <br />
                 <p>
-                    henryheffernan.com is my portfolio website, and also the
-                    website you are on right now. This project was an absolute
-                    joy to make and challenged me both technically and
-                    creatively. Early in 2022, I knew I wanted to make an
-                    interactive portfolio to aid my job search. I eventually got
-                    the idea for this site around early February and began
-                    development early March. I've been developing it alongside
-                    my last semester at school and if you are reading this, it's
-                    pretty much done!
+                    
                 </p>
                 <br />
                 <div className="captioned-image">
@@ -49,22 +41,15 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                     </p>
                 </div>
                 <p>
-                    Now, a quick technical breakdown of the site. The website is
-                    split into two parts, the 3D site, and the 2D OS site. The
-                    3D site uses Three.js to render the scene and renders the 2D
-                    site inside of it using an iframe. The 2D OS site is a
-                    simple react site that is hosted{' '}
+                    
                     <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://henryheffernan.vercel.app/"
+                        href=""
                     >
                         here
                     </a>{' '}
-                    and works as a standalone web app. The actual rendering of
-                    the 2D site is accomplished using a CSS renderer provided by
-                    Three.js that transforms the html of the 2D site with 3D CSS
-                    transforms to give the illusion of three dimensionality.
+                    
                 </p>
                 <br />
                 <h3>Links:</h3>
@@ -73,10 +58,10 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://henryheffernan.com"
+                            href=""
                         >
                             <p>
-                                <b>[3D Site]</b> - henryheffernan.com
+                                <b>[3D Site]</b> - 
                             </p>
                         </a>
                     </li>
@@ -84,10 +69,10 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://henryheffernan.vercel.app/"
+                            href=""
                         >
                             <p>
-                                <b>[OS Site]</b> - henryheffernan.vercel.app
+                                <b>[OS Site]</b> -
                             </p>
                         </a>
                     </li>
@@ -95,7 +80,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://github.com/henryjeff/portfolio-website"
+                            href=""
                         >
                             <p>
                                 <b>[GitHub]</b> - 3D Site Repository
@@ -106,7 +91,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://github.com/henryjeff/portfolio-inner-site"
+                            href=""
                         >
                             <p>
                                 <b>[GitHub]</b> - OS Site Repository
@@ -122,9 +107,9 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                     <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://twitter.com/henryheffernan"
+                        href=""
                     >
-                        @henryheffernan
+                        
                     </a>
                 </p>
             </div>
@@ -188,7 +173,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://github.com/henryjeff/gsts_assets"
+                            href=""
                         >
                             <p>
                                 <b>[GitHub]</b> - Guntattchment Saga The Sequel
@@ -244,7 +229,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://github.com/henryjeff/skip-the-scroll"
+                            href=""
                         >
                             <p>
                                 <b>[GitHub]</b> - Skip the Scroll Repository
