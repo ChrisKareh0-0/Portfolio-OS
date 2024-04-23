@@ -2020,7 +2020,7 @@
 2019:write_latch\28unsigned\20int\2c\20unsigned\20int\2c\20unsigned\20int\29
 2020:write_hercules\28unsigned\20int\2c\20unsigned\20int\2c\20unsigned\20int\29
 2021:write_gus\28unsigned\20int\2c\20unsigned\20int\2c\20unsigned\20int\29
-2022:write_data\28unsigned\20int\2c\20unsigned\20int\2c\20unsigned\20int\29
+2024:write_data\28unsigned\20int\2c\20unsigned\20int\2c\20unsigned\20int\29
 2023:write_crtc_index_other\28unsigned\20int\2c\20unsigned\20int\2c\20unsigned\20int\29
 2024:write_crtc_data_other\28unsigned\20int\2c\20unsigned\20int\2c\20unsigned\20int\29
 2025:write_command\28unsigned\20int\2c\20unsigned\20int\2c\20unsigned\20int\29

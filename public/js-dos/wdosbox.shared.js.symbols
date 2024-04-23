@@ -2020,7 +2020,7 @@
 2019:CDROM_Interface::CDROM_Interface\28\29
 2020:CALLBACK_SetupExtra\28unsigned\20int\2c\20unsigned\20int\2c\20unsigned\20int\2c\20bool\29
 2021:BatchFile::~BatchFile\28\29
-2022:BOOT::getFSFile\28char\20const*\2c\20unsigned\20int*\2c\20unsigned\20int*\2c\20bool\29
+2024:BOOT::getFSFile\28char\20const*\2c\20unsigned\20int*\2c\20unsigned\20int*\2c\20bool\29
 2023:BOOT::disable_umb_ems_xms\28\29
 2024:BIOS::~BIOS\28\29
 2025:Adlib::Timer::Timer\28short\29
